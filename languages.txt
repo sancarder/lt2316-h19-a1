@@ -1,0 +1,10 @@
+Albanian
+Bokmål
+Dutch
+English
+German
+Latin
+Portuguese
+Somali
+Swedish
+Turkish
