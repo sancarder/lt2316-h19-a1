@@ -1,10 +1,10 @@
 # lt2316-h19-a1
 Assignment 1 in Machine Learning course, Master program in Language Technology, Gothenburg University
 
-# Part 0: GPU
+## Part 0: GPU
 My GPU is 0
 
-# Part 1: Data preparation
+## Part 1: Data preparation
 Languages chosen (10):
 + Albanian,
 + Bokmål
